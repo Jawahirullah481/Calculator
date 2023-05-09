@@ -1,0 +1,23 @@
+.root{
+    -fx-main-color: #00799F;
+    -fx-second-color: #EAEBFF;
+}
+
+.holder{
+    -fx-background-color: -fx-main-color;
+}
+
+.text-field{
+    -fx-background-color: -fx-second-color;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.4), 4, 0, 0, 4);
+    -fx-background-radius: 12px;
+}
+
+.button{
+    -fx-background-color: -fx-second-color;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.4), 4, 0, 0, 4);
+    -fx-background-radius: 9px;
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #4d4d4d;
+}
