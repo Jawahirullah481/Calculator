@@ -28,7 +28,7 @@ This is a simple desktop calculator app built using the JavaFX framework. The ap
 
 ## Acknowledgements
 
-This app was developed as a learning project by [Jawahirullah]. Feel free to use it as a reference for building your own JavaFX applications.
+This app was developed as a learning project by **Jawahirullah**. Feel free to use it as a reference for building your own JavaFX applications.
 
 ## License
 
